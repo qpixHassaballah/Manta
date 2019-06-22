@@ -29,7 +29,7 @@ A desktop application for creating invoices with beautiful and customizable temp
 <a href="#development">Development</a> •
 <a href="#faq">FAQ</a> •
 <a href="#acknowledgement">Acknowledgement</a>
-
+# This Fork is to support Arabic Language in this repo
 ### Screenshots
 
 Here's a few screenshots of Manta. [See more](https://github.com/hql287/Manta/wiki/Screenshots)
